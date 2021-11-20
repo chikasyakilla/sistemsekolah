@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>MESIN VS ELEKTRO</title>
+        <title>MESIN VS ELEKTRO SYNAPSE ACADEMY</title>
         <style>
             table, td, tr, th {
                 border: 1px solid black
@@ -11,7 +11,7 @@
     <?php
     $Koneksi = new mysqli("localhost", "root", "", "sistem_sekolah");
     ?>
-    <b> Daftar seluruh siswa mesin dan elektro </b> <br>
+    <b> Daftar seluruh siswa mesin dan elektro SYNAPSE ACADEMY</b> <br>
     <a href='create.php'>Tambah</a>
     <table>
             <tr>
